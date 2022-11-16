@@ -1,0 +1,53 @@
+.box{
+   position: relative;
+   
+  
+}
+.box-content{
+    
+    position: absolute;
+    height: 200px;
+    width: 600px;
+    border: 1px solid black;
+     padding: 50px; 
+    margin: 10%;
+    margin-left: 400px;
+    border-radius:15px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+.box-content2{
+    height: 400px;
+    width: 250px;
+    position: absolute;
+    border: 1px solid black;
+    margin: 10px;
+    box-shadow:2px 1px 2px 1px black ;
+    margin-left: 800px;
+    margin-top:90px ;
+    border-radius:15px ;
+background-color: white;
+
+}
+.box-content2 input{
+    width:170px;
+    border-color: green;
+    border-radius:8px ;
+}
+
+h2{
+    text-align: center;
+}
+.btn{
+    margin:10px ;
+    padding-left: 37px;
+   
+  
+}
+.button{
+   margin-left: 20px;
+   margin-left: 20px;
+   width: 100px;
+   border-radius:12px ;
+  background-color: black;
+   color:white ;
+}
